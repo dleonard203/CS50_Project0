@@ -1,0 +1,100 @@
+.navbar {
+  color: lightcyan;
+}
+
+.navbar {
+  background-color: darkcyan;
+  color: lightcyan;
+}
+
+.navbar {
+  background-color: darkcyan;
+}
+.navbar .btn {
+  background-color: lightgreen;
+  border-color: lightgreen;
+  color: black;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.btn:hover {
+  background-color: hotpink;
+  border-color: hotpink;
+}
+
+.introduction {
+  margin-top: 30px;
+  padding-top: 30px;
+}
+
+body {
+  background-color: #941794;
+  color: #8ee9a2;
+}
+
+#graph {
+  width: 350px;
+}
+
+.container p {
+  text-align: center;
+}
+
+@media only screen and (min-width: 992px) {
+  #graph {
+    width: 600px;
+  }
+}
+.bookworm {
+  width: 150px;
+}
+
+@media only screen and (min-width: 992px) {
+  .big-image {
+    width: 600px;
+  }
+}
+.big-image {
+  width: 350px;
+}
+
+.row {
+  margin-bottom: 50px;
+}
+
+.mit {
+  width: 350px;
+}
+
+.image-grid {
+  margin-left: 8%;
+  margin-top: 50px;
+}
+
+.fab {
+  width: 350px;
+}
+
+.bash {
+  margin-top: 15px;
+}
+
+table, th, td {
+  border: 1px solid black;
+  padding: 15px;
+  border-width: 3px;
+  text-align: center;
+  margin-left: 42%;
+}
+
+.jumbotron {
+  color: black;
+  text-align: center;
+}
+
+a {
+  color: white;
+}
+
+/*# sourceMappingURL=main.css.map */
